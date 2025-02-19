@@ -1,0 +1,5 @@
+img {height: 500px; margin: 15px 5px 15px 5px; padding: 5px; color: grey; display: inline-block;}
+::backdrop {color: darkgray;}
+text {font-style: italic;}
+h1 {background-origin: padding-box 15px 5px 15px 5px;}
+
