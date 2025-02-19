@@ -1,2 +1,3 @@
 # MyPortfolio
-Portfolio Repo
+Website has been created.
+javascript and stylesheet has been linked.
